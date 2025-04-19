@@ -10,6 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/nickpamatian/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Unauthorized Remote Access Tool Usage)](https://github.com/nickpamatian/threat-hunting-scenario-unauthorized-remote-access-tool-usage)**
 
 <hr/>
 
